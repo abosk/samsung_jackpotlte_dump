@@ -1,0 +1,5 @@
+service vaultkeeper_hal /system/bin/vendor.samsung.security.vaultkeeper_server@1.0-service
+    class core
+    user system
+    group system
+    disabled

@@ -1,0 +1,17 @@
+# Secure Storage startup
+service secure_storage /system/bin/secure_storage_daemon
+    class core
+    user system
+    group system
+    disabled
+
+on post-fs-data
+    mkdir /dev/.secure_storage
+    chmod 0711 /dev/.secure_storage
+    chown system system /dev/.secure_storage
+    mkdir /data/system/secure_storage
+    chmod 0711 /data/system/secure_storage
+    chown system system /data/system/secure_storage
+
+on boot
+    start secure_storage

@@ -1,0 +1,14 @@
+/data/app/SHealth6/SHealth6.apk
+/data/app/VoiceNote_5.0/VoiceNote_5.0.apk
+/data/app/Notes_Removable/Notes_Removable.apk
+/data/app/Drive/Drive.apk
+/data/app/SamsungPayStub/SamsungPayStub.apk
+/data/app/Videos/Videos.apk
+/data/app/Duo/Duo.apk
+/data/app/SecEmail_P/SecEmail_P.apk
+/data/app/SecCalculator_R/SecCalculator_R.apk
+/data/app/SBrowser_9.0_Removable/SBrowser_9.0_Removable.apk
+/data/app/SamsungConnect/SamsungConnect.apk
+/data/app/Photos/Photos.apk
+/data/app/SamsungMembers_Removable/SamsungMembers_Removable.apk
+/data/app/Music2/Music2.apk
